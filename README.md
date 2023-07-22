@@ -13,7 +13,7 @@ Getting started with GitHub Contribution Bot is a breeze! Follow these simple st
 1. Clone and fork the repository to have your own local version of the project.
 
    ```git-bash
-   git clone https://github.com/timisalin01/green
+   git clone https://github.com/timisalin01/GIT
    cd Green-Github
    ```
 
